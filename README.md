@@ -1,24 +1,92 @@
-CYBERFICTION
-A Sci-Fi-Themed Interactive Web Experience
-CYBERFICTION is a front-end project that creates a futuristic, cinematic experience where images change smoothly like a video as you scroll. 
-The project leverages HTML5 Canvas and Locomotive Scroll to achieve smooth, performant animations based on user scroll interactions.
------------------------------------------------------------------------------------------------------------------------------------------------
-Features
-Scroll-Based Animation with Locomotive Scroll: Using Locomotive Scroll for smooth, hardware-accelerated scrolling and image transitions.
-Canvas Element: Dynamic image rendering on an HTML5 <canvas> element for efficient frame-by-frame transitions.
-Cyberpunk Theme: A visually immersive sci-fi experience inspired by the cyberpunk genre.
-Performance Optimized: Preloading images and optimizing rendering for a seamless user experience.
---------------------------------------------------------------------------------------------------------------------------------------------------------
-Technologies Used
-HTML5 Canvas: For rendering and drawing images as the user scrolls.
-Locomotive Scroll: A smooth scrolling library that powers the scroll-triggered animations.
-CSS3: To ensure smooth transitions and style the page with a futuristic aesthetic.
-JavaScript: For handling scroll events, drawing images onto the canvas, and interacting with Locomotive Scroll.
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-How It Works
-Locomotive Scroll Integration : Locomotive Scroll is used to enhance the scrolling experience, providing smooth, inertial scrolling with built-in performance optimizations.
-It detects scroll events and triggers the loading of new images in sync with the user's scroll position.
-Canvas Rendering : Images are dynamically drawn onto the <canvas> element based on the current scroll position, simulating the effect of a video playing.
-Preloaded image sequences are displayed as frames to give the appearance of smooth motion.
-Scroll-Based Animation : As users scroll up or down, Locomotive Scroll provides a fluid motion, while JavaScript updates the canvas to show different frames of the animation.
----------------------------------------------------------------------------------------------------------------------------------------------------------
+# CYBERFICTION – Landing Page Clone 👾
+
+This is a static **landing page clone** inspired by [CYBERFICTION](https://cyberfiction.io/) — recreated using **HTML**, **CSS**, and **JavaScript**. It replicates their bold futuristic design, animations, and interactions. Fully responsive and deployed using GitHub Pages.
+
+---
+
+## 📺 Live Demo
+
+👉 [View Live Site](https://digvijaypandit.github.io/CYBERFICTION/)
+
+---
+
+## 📦 Repository
+
+📂 GitHub Repo: [https://github.com/digvijaypandit/CYBERFICTION](https://github.com/digvijaypandit/CYBERFICTION)
+
+---
+
+## 📁 Project Structure
+
+CYBERFICTION/
+├── index.html # Main landing page
+├── style.css # All styles
+├── script.js # JavaScript functionality
+├── assets/ # Images, fonts, media files
+│ └── ...
+└── README.md # Project documentation
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/digvijaypandit/CYBERFICTION.git
+cd CYBERFICTION
+2. Open in Browser
+Just open index.html directly
+```
+
+🌐 Deploy on GitHub Pages
+Already deployed at:
+
+https://digvijaypandit.github.io/CYBERFICTION/
+To update:
+
+Push your latest code to the main branch.
+
+GitHub Pages auto-updates the site.
+
+🧰 Built With
+HTML5 – Page structure
+
+CSS3 – Styling and layout
+
+JavaScript – Interactivity and animations
+
+GitHub Pages – Hosting
+
+✨ Features
+Inspired by cyberfiction.io
+
+Responsive design across devices
+
+Smooth transitions & animations
+
+Modular, clean codebase
+
+No frameworks — just vanilla HTML, CSS, JS
+
+👤 Author
+Digvijay Pandit
+🔗 GitHub Profile
+
+
+### ✅ Next Steps:
+
+1. Copy the above content
+2. Paste it into your `README.md` at:  
+   [`https://github.com/digvijaypandit/CYBERFICTION`](https://github.com/digvijaypandit/CYBERFICTION)
+3. Commit and push the changes:
+   ```bash
+   git add README.md
+   git commit -m "Update README with live demo and project info"
+   git push
+Let me know if you’d like help adding screenshots, section links, or project tags.
+
+
+
+
+
